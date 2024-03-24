@@ -53,4 +53,4 @@ This project is created to demonstrate basic Git workflow.
     git push origin main
     ```
 
-11. Your changes are successfully uploaded and merged with the main branch.
+11. Your changes are successfully uploaded and merged with the main branch. Enjoy
